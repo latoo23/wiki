@@ -30,27 +30,51 @@ Cel mai important aspect pe care trebuie să-l cunoști când vine vorba de serv
 Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște îndrumări. Vă creați singuri *gameplay-ul* cum doriți! Orice e scris mai jos are și o secțiune separată, tot aici pe Wiki, deci dacă doriți mai multe informații despre un anumit lucru, îl puteți căuta separat folosind funcția de Search din bara de sus sau apasând tastele CTRL și K.
 :::
 
+## Ce este un **BattlePass**?
+
+Pe server este regăsit și sistemul de **BattlePass** ce poate fi realizat de la orice nivel, pentru mai multe detalii despre acesta poți apăsa pe tasta 'U' in-game.
+
+**BattlePass-ul** este o modalitate care oferă jucătorilor o serie de recompense, cum ar fi elemente cosmetice, monedă virtuală, experiență și alte bonusuri, în schimbul unei sume fixe de bani sau a unui efort semnificativ investit în joc. Aceste recompense sunt adesea disponibile pentru un anumit sezon sau perioadă de timp.
+
+### Cum Funcționează?
+
+**BattlePass-ul** funcționează pe baza unui sistem de niveluri. Jucătorii încep de la nivelul 1 și pot avansa prin joc îndeplinind anumite sarcini pentru a avansa în nivel și pentru a obține recompense. Fiecare nivel câștigat aduce cu sine diverse recompense (cosmetice, bani in-game, sume de Gold, și multe altele).
+
+::: tip
+Este esențial ca, la nivele mai mici, să ai o bază financiară bună pentru a putea fi pregătit de conținutul pe care îl vei debloca odată cu creșterea în nivel.
+:::
+
+## Bounty Hunters
+
+**Bounty Hunters** este un nou eveniment permanent activ pe server, similar cu World Exploration. În fiecare zi, serverul va spawna pentru fiecare jucător la un interval de 8 ore un număr de NPC-u ri ce trebuiesc ucise. În funcție de tipul contului deținut se vor spawna 8 NPC-uri ( cont standard & Gold) sau 10 NPC-uri (cont Platinum). 
+Există 3 tipuri de NPC-uri: 
+"Peaceful" - nu risposteaza când este atacat.
+"Aggressive" - ripostează când este atacat.
+"Aggressive with suitcase" - ripostează când e atacat și dropeaza o servietă la deces, servietă ce trebuie livrată la Alfred într -un interval de 10 minute.
+
+Evenimentul dispune de un sistem de avansare în nivel, avansarea în nivel oferind jucătorilor premii mai atractive.
+
 ## Evoluție 
 
 ### Între level 1 și 3
 
 Nu uita să introduci codul de referral (recomandare/afiliere) la sfârșitul tutorial-ului sau, mai târziu, din meniul [Profil & setări](./general/profile-and-settings.md#cum-vizualizez-profilul-și-setările), categoria **Referrals** - butonul *Activate*.
 
-Recomandarea noastră este să frecventați **joburile** despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Panto**, primit cadou temporar pentru **50 payday-uri**, o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
-
-Recomandarea noastră este să frecventați **joburile** oferite de server, despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește suma de bani din cont. Aceasta este una dintre multiplele surse de venit. De asemenea, vehiculul **Panto**, primit ca si cadou temporar (pentru **30 de payday-uri**),  o să vă ajute mult cu deplasarea, dar și la anumite joburi (de exemplu: **Electrician**). Este bine de știu că va fi nevoie să folosiți telefonul destul de des, atât pentru funcția de GPS sau banking (aplicația **Bank**), cât și pentru multe alte sisteme.
+Recomandarea noastră este să frecventați **joburile** despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Panto**, primit cadou temporar pentru **50 payday-uri**, o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Electrician** sau **Uber**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
 
 ::: tip
-Este recomandat să ai mereu la tine mâncare și apă. Le poți cumpăra dintr-un magazin de tip Market 24/7. Dacă nu te hrănești sau hidratezi, nu o să mai poți alerga sau sări, fapt ce-ți va împiedica activitățile pe care dorești să le desfășori.
+Este recomandat să ai mereu la tine mâncare și lichide. Le poți cumpăra dintr-un magazin de tip Market 24/7, o benzinărie (Gas Station) sau de la un Hotdog Stand. Dacă nu te hrănești sau hidratezi, nu o să mai poți alerga sau sări, fapt ce-ți va împiedica activitățile pe care dorești să le desfășori.
 :::
 
 În magazinele de tip Market 24/7 poți găsi o multitudine de articole utile precum **canistre** (200$), **undițe** (100$ / bucată), **momeală** (64$ / 64 bucăți de momeală). De asemenea, dacă vrei să vorbești prin mesaje sau să suni pe cineva, îți sugerăm aplicația PhoneBook din telefon, aceasta costând 500$. Aceasta te va ajuta să găsești numărul fiecărui jucător de pe *server*.
 
 ::: tip
-Nu uita să verifici mereu ce *daily quests* ai și să le completezi pentru diferite recompense **(sume de bani, bunuri, gold)**!
+Nu uita să verifici mereu ce *daily quests* ai și să le completezi pentru diferite recompense **(sume de bani, bunuri, gold)**! Totodată, pe server este regăsit și misiunea zilnică *World Exploration* ce poate fi completată o dată pe zi dacă contul tău este unul **Standard** sau de două ori dacă deții o subscripție de tip **Platinum** ce poate fi achiziționată in-game de la alți jucători sau din [Shop](https://ucp.liberty.mp/shop).
 :::
 
-Este esențial ca, la nivele mai mici, să ai o bază financiară bună pentru a putea fi pregătit de conținutul pe care îl vei debloca odată cu creșterea în nivel.
+::: tip
+Accesând telefonul tău personal, poți închiria un vehicul din aplicația **Rent a Car** în schimbul unei sume de bani prestabilită de către jucătorul ce a plasat vehiculul respectiv spre închiriere pe o durată determinată de către tine.
+:::
 
 ### Între level 3 și 5
 
@@ -63,6 +87,13 @@ La acest stadiu, depinde de tine ce fel de *gameplay* vrei să faci. Poți conti
 Din momentul acesta poți investi și în **cryptomonede**, despre care aveți mai multe informații [**aici**](./economy/crypto). Acestea sunt sincronizate cu cele din realitate și, dacă ești atent la piață, poți să ai încă o sursă de venit de aici, pe lângă cea din *Stock Market*, acesta fiind valabil de la level 7! De asemenea, dacă nu mai dorești să locuiești la un hotel sau un motel îți poți păstra banii pentru o **casă sau un apartament** pentru licitațiile ce o să urmeze. Din moment ce poți utiliza cryptomonedele, poți folosi și aplicația **Hitman** care folosește cryptomoneda *Tether* pentru a angaja un asasin!
 
 Nu uita că există mai multe facțiuni din care poți face parte, pentru mai multe detalii citiți [**aici**](./factions/). Acestea sunt diferite între ele și te poți alătura lor prin intermediul unei aplicații pe UCP-ul nostru. Trebuie doar să te decizi ce îți place mai mult, ce ai vrea să faci și să te documentezi în legătură cu ce se ocupă acestea.
+
+::: tip
+Odată ce ai ajuns la nivelul 5, poți practica job-ul **Tow Truck Driver** ce dispune de un sistem de upgrade al vehiculului de job bazat pe puncte de upgrade ce pot fi obținute în urmă practicării acestuia.
+De la nivelul 10, respectiv 15, poti practica job-ul **Fisherman**, respectiv **Uber** daca detii un vehicul personal / inchiriat.
+:::
+
+Acestea reprezintă doar o parte din sistemele regăsite pe server. Pentru o expertiză mai profundă , va recomandăm să le descoperiți în joc chiar de către dumneavoastră .
 
 ## Asistență în joc
 
